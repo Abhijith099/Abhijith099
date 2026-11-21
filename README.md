@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abhijith099/profile-assets/main/assets/bat.gif" width="180" alt="A bat flying across the README" />
-</div>
-
 ### Hi, I'm Abhijith Anand 👋
 
 **AI Backend & Full-Stack Engineer** based in Bengaluru, India.  
