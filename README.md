@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abhijith099/profile-assets/main/assets/bat.gif" width="180" alt="A bat flying across the README" />
+</div>
+
 ### Hi, I'm Abhijith Anand 👋
 
 **AI Backend & Full-Stack Engineer** based in Bengaluru, India.  
@@ -9,6 +13,7 @@ I build **AI-powered backend systems, event-driven developer tools, and full-sta
 - 🛠️ **Core stack:** `Python` · `FastAPI` · `React` · `Node.js` · `PostgreSQL` · `MongoDB` · `Docker` · `Java`
 - 📄 **Research:** Co-authoring *Lumina Dreams: Real-time Monitoring of Emotional Well-being for Gen X*
 - 💼 **Open to:** Software Engineering, AI/ML, Backend, and Full-Stack Internships
+- 🔭 **Currently exploring:** Agentic AI, retrieval systems, and developer tools that make complex information easier to understand and act on.
 
 ---
 
